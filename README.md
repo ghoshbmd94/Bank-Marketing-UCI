@@ -1,7 +1,5 @@
 # Bank Marketing — Term Deposit Subscription Prediction
 
-BITS Pilani, WILP — M.Tech (AIML/DSE) — Machine Learning — Assignment 2
-
 ## a. Problem Statement
 
 A Portuguese bank ran a series of direct phone-call marketing campaigns to
