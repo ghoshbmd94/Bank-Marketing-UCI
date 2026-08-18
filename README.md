@@ -127,4 +127,4 @@ run it top to bottom to retrain just that one model.
 
 ## Live Streamlit App Link
 
-> _Add your deployed Streamlit Community Cloud link here._
+> https://bank-marketing-uci.streamlit.app
